@@ -41,3 +41,4 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 ![Screenshot 2024-12-05 081127](https://github.com/user-attachments/assets/3db73bad-9be8-4e6e-8e5b-d6db51dea6b1)
 
 **RESULTS**
+Thus, to implement 4 Bit Ripple Counter using verilog and validating their functionality using their functional tables is verified.
